@@ -20,4 +20,3 @@ if  __name__ == "__main__":
         print("Generated password:",pwd)
     except ValueError as e:
         print("Error:", e)
-    
